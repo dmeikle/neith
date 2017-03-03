@@ -5,7 +5,8 @@
   "description": "php logging",
   "keywords": [
     "php",
-    "event dispatcher"
+    "logging",
+    "gossamer"
   ],
   "homepage": "https://github.com/dmeikle/neith",
   "license": "MIT",
